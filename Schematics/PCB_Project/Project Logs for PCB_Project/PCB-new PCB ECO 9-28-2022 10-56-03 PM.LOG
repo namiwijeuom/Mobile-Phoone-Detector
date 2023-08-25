@@ -1,0 +1,3 @@
+Change Net Name : Old Net Name=Net9v_1 New Net Name=+vcc
+Change Net Name : Old Net Name=Net9v_2 New Net Name=GND
+Added Room: Name=Sheet-new
